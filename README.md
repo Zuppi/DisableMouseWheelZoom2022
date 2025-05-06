@@ -1,0 +1,1 @@
+# DisableMouzeWheelZoom2022

@@ -24,8 +24,8 @@ namespace DisableMouzeWheelZoom2022
     /// </para>
     /// </remarks>
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [Guid(DisableMouzeWheelZoom2022Package.PackageGuidString)]
-    public sealed class DisableMouzeWheelZoom2022Package : AsyncPackage
+    [Guid(DisableMouseWheelZoom2022Package.PackageGuidString)]
+    public sealed class DisableMouseWheelZoom2022Package : AsyncPackage
     {
         /// <summary>
         /// DisableMouzeWheelZoom2022Package GUID string.

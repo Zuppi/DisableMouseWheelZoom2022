@@ -46,7 +46,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="DisableMouzeWheelZoom2022Package.cs" />
+    <Compile Include="DisableMouseWheelZoom2022Package.cs" />
     <Compile Include="TextViewScrollDisabler.cs" />
   </ItemGroup>
   <ItemGroup>

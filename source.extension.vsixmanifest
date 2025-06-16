@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="DisableMouzeWheelZoom2022.f217966b-1c0e-4a12-9010-57ca5fe19609" Version="1.0" Language="en-US" Publisher="Juuso Hietala" />
+        <Identity Id="DisableMouseWheelZoom2022.f217966b-1c0e-4a12-9010-57ca5fe19609" Version="1.0" Language="en-US" Publisher="Juuso Hietala" />
         <DisplayName>Disable Mouse Wheel Zoom 2022</DisplayName>
         <Description xml:space="preserve">Extension that disables zooming of editor text via CTRL + Mouse Scroll gesture. Inpired by https://github.com/NoahRic/DisableMouseWheelZoom</Description>
     </Metadata>
